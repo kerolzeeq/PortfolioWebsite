@@ -697,7 +697,7 @@ textarea::-ms-input-placeholder
 .contact-area{
     background: rgba(79, 50, 68, .7);
     padding:60px 40px 147px 40px;
-    color:#fff;
+    color:rgb(255, 255, 255);
 }
 .contact-wrapper h4{
     color:#fff;
